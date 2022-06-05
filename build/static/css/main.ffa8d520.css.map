@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.ffa8d520.css","mappings":"AAAA,IAGE,qBAFA,oBAAqB,CACrB,qBACqB,CACtB,cAIG,eAAgB","sources":["style.scss"],"sourcesContent":["pre {\r\n  white-space: pre-wrap; \r\n  white-space: -pre-wrap;     \r\n  word-wrap: break-word;      \r\n}\r\n\r\nbutton {\r\n  & + & {\r\n    margin-left: 4px;\r\n  }\r\n}"],"names":[],"sourceRoot":""}
