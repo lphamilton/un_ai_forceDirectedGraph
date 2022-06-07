@@ -9,7 +9,11 @@ const Info = ({ countNodes, countLinks }) => {
         zIndex: 2
       }}
     >
-      <span>Nodes: {countNodes}</span>, <span>Links: {countLinks}</span>
+      <span 
+      style={{
+        marginRight: "10px",
+      }}
+      >Article count: {countNodes}</span><span>Connections: {countLinks}</span>
     </div>
   );
 };

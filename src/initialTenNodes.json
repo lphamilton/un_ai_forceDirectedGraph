@@ -1,0 +1,501 @@
+{
+    "nodes":  [
+        {
+            "id": 75,
+            "Title": "Space-Time Landslide Predictive Modelling",
+            "Tags": "snow"
+        },
+        {
+            "id": 41,
+            "Title": "A Model for TSUnami FLow INversion from Deposits (TSUFLIND)",
+            "Tags": "ice"
+        },
+        {
+            "id": 83,
+            "Title": "Detecting and monitoring long-term landslides in urbanized areas with nighttime light data and multi-seasonal Landsat imagery across Taiwan from 1998 to 2017",
+            "Tags": "avalanche"
+        },
+        {
+            "id": 11,
+            "Title": "Cyclic sieving phenomenon in non-crossing connected graphs",
+            "Tags": "tsunami"
+        },
+        {
+            "id": 30,
+            "Title": "How Bad is the Freedom to Flood-It?",
+            "Tags": "earthquake"
+        },
+        {
+            "id": 135,
+            "Title": "Hierarchical Integrated Spatial Process Modeling of Monotone West Antarctic Snow Density Curves",
+            "Tags": "storm"
+        },
+        {
+            "id": 173,
+            "Title": "Dearth of short-period Neptunian exoplanets - a desert in period-mass and period-radius planes",
+            "Tags": "volcano"
+        },
+        {
+            "id": 189,
+            "Title": "A New Space Weather Tool for Identifying Eruptive Active Regions",
+            "Tags": "volcano"
+        },
+        {
+            "id": 78,
+            "Title": "XAI Model for Accurate and Interpretable Landslide Susceptibility",
+            "Tags": "avalanche"
+        },
+        {
+            "id": 192,
+            "Title": "The Behavior of Novae Light Curves Before Eruption",
+            "Tags": "volcano"
+        },
+        {
+            "id": 119,
+            "Title": "We'll Fix It in Post: What Do Bug Fixes in Video Game Update Notes Tell Us?",
+            "Tags": "tsunami"
+        },
+        {
+            "id": 207,
+            "Title": "Dynamics of a solar prominence tornado observed by SDO\/AIA on 2012 November 7-8",
+            "Tags": "volcano"
+        },
+        {
+            "id": 227,
+            "Title": "A Computational Framework for Modelling and Analyzing Ice Storms",
+            "Tags": "ice"
+        },
+        {
+            "id": 294,
+            "Title": "From periodically driven double wells to volcano potentials: Quantum dynamics",
+            "Tags": "dust"
+        },
+        {
+            "id": 258,
+            "Title": "Estimating country-specific space heating threshold temperatures from national consumption data",
+            "Tags": "ice"
+        },
+        {
+            "id": 185,
+            "Title": "The Galactic Dust-Up: Modeling Dust Evolution in FIRE",
+            "Tags": "volcano"
+        },
+        {
+            "id": 528,
+            "Title": "Photographic Visualization of Weather Forecasts with Generative Adversarial Networks",
+            "Tags": "flood"
+        },
+        {
+            "id": 614,
+            "Title": "Ultra-compact binaries: relevance and role of Utrecht",
+            "Tags": "tsunami"
+        },
+        {
+            "id": 201,
+            "Title": "Analysis of Annual Cyclone Frequencies over Bay of Bengal: Effect of 2004 Indian Ocean Tsunami",
+            "Tags": "volcano"
+        },
+        {
+            "id": 640,
+            "Title": "New Phenomena in NC Field Theory and Emergent Spacetime Geometry",
+            "Tags": "tsunami"
+        },
+        {
+            "id": 598,
+            "Title": "The strange attraction phenomenon in cQED: the intermediate quantum coupling regime",
+            "Tags": "tsunami"
+        },
+        {
+            "id": 595,
+            "Title": "A Compositional Explanation of the Pet Fish Phenomenon",
+            "Tags": "tsunami"
+        },
+        {
+            "id": 622,
+            "Title": "Lecture Notes: Numerical Relativity in higher dimensional spacetimes",
+            "Tags": "tsunami"
+        },
+        {
+            "id": 736,
+            "Title": "A Comparative Analysis of Machine Learning Models for Solar Flare Forecasting: Identifying High Performing Active Region Flare Indicators",
+            "Tags": "ice"
+        },
+        {
+            "id": 783,
+            "Title": "Temporal flooding of regular islands by chaotic wave packets",
+            "Tags": "earthquake"
+        },
+        {
+            "id": 751,
+            "Title": "Spanning trees and the complexity of flood-filling games",
+            "Tags": "ice"
+        },
+        {
+            "id": 864,
+            "Title": "Boussinesq systems in two space dimensions over a variable bottom for the generation and propagation of tsunami waves",
+            "Tags": "ice"
+        },
+        {
+            "id": 941,
+            "Title": "Architectural Techniques for Improving NAND Flash Memory Reliability",
+            "Tags": "ice"
+        },
+        {
+            "id": 1189,
+            "Title": "Mining Secure Behavior of Hardware Designs",
+            "Tags": "snow"
+        },
+        {
+            "id": 1135,
+            "Title": "Deep Fusion of Local and Non-Local Features for Precision Landslide Recognition",
+            "Tags": "pandemic"
+        },
+        {
+            "id": 1198,
+            "Title": "Debris Disks: Structure, Composition, and Variability",
+            "Tags": "snow"
+        },
+        {
+            "id": 1222,
+            "Title": "Effects of a planetesimal debris disk on stability scenarios for the extrasolar planetary system HR 8799",
+            "Tags": "avalanche"
+        },
+        {
+            "id": 1250,
+            "Title": "Spatially resolved submm imaging of the HR 8799 debris disk",
+            "Tags": "volcano"
+        },
+        {
+            "id": 1221,
+            "Title": "Tidal Tales of Minor Mergers: Star Formation in the Tidal Debris of Minor Mergers",
+            "Tags": "avalanche"
+        },
+        {
+            "id": 1171,
+            "Title": "Tactical Voting in Plurality Elections",
+            "Tags": "snow"
+        },
+        {
+            "id": 1225,
+            "Title": "Hybrid Paricle-in-Cell Simulations of Electromagnetic Coupling and Waves From Streaming Burst Debris",
+            "Tags": "avalanche"
+        },
+        {
+            "id": 1266,
+            "Title": "Long-term Attitude Dynamics of Space Debris in Sun-synchronous Orbits: Cassini Cycles and Chaotic Stabilization",
+            "Tags": "volcano"
+        },
+        {
+            "id": 1288,
+            "Title": "A useful correspondence between fluid convection and ecosystem operation",
+            "Tags": "ice"
+        },
+        {
+            "id": 1142,
+            "Title": "Comparing modern and Pleistocene ENSO-like influences in NW Argentina using nonlinear time series analysis methods",
+            "Tags": "pandemic"
+        },
+        {
+            "id": 1192,
+            "Title": "Debris disks and the search for life in the universe",
+            "Tags": "snow"
+        },
+        {
+            "id": 1199,
+            "Title": "A survey of debris trails from short-period comets",
+            "Tags": "snow"
+        },
+        {
+            "id": 1206,
+            "Title": "Five New Post-Main-Sequence Debris Disks with Gaseous Emission",
+            "Tags": "snow"
+        },
+        {
+            "id": 1154,
+            "Title": "Searching for color variation on fast rotating asteroids with simultaneous V-J observations",
+            "Tags": "pandemic"
+        },
+        {
+            "id": 1342,
+            "Title": "Reconstructing a (recurrent) random environment from a single trajectory of Random Walk in Random Environment with errors",
+            "Tags": "snow"
+        },
+        {
+            "id": 1255,
+            "Title": "Formation of sharp eccentric rings in debris disks with gas but without planets",
+            "Tags": "volcano"
+        },
+        {
+            "id": 1230,
+            "Title": "A Spitzer IRS Study of Debris Disks Around Planet-Host Stars",
+            "Tags": "earthquake"
+        },
+        {
+            "id": 1353,
+            "Title": "The Future of Intelligent Wavefront Shaping for Smart Radio Environments",
+            "Tags": "ice"
+        },
+        {
+            "id": 1219,
+            "Title": "Gap carving by a migrating planet embedded in a massive debris disc",
+            "Tags": "avalanche"
+        },
+        {
+            "id": 1404,
+            "Title": "Human Learning of Unknown Environments in Agile Guidance Tasks",
+            "Tags": "ice"
+        },
+        {
+            "id": 1543,
+            "Title": "Analysis of the human diseasome reveals phenotype modules across common, genetic, and infectious diseases",
+            "Tags": "flood"
+        },
+        {
+            "id": 1549,
+            "Title": "Clinical connectivity map for drug repurposing: using laboratory tests to bridge drugs and diseases",
+            "Tags": "ice"
+        },
+        {
+            "id": 1397,
+            "Title": "Role of initial system-environment correlations: A master equation approach",
+            "Tags": "ice"
+        },
+        {
+            "id": 1545,
+            "Title": "Pan-disease clustering analysis of the trend of period prevalence",
+            "Tags": "flood"
+        },
+        {
+            "id": 1433,
+            "Title": "On a Hyperbolic-Parabolic Parasitoid-Parasite System: Well Posedness and Control",
+            "Tags": "ice"
+        },
+        {
+            "id": 1590,
+            "Title": "Integrating Dictionary Feature into A Deep Learning Model for Disease Named Entity Recognition",
+            "Tags": "tsunami"
+        },
+        {
+            "id": 1624,
+            "Title": "Epidemic spreading on modular networks: The fear to declare a pandemic",
+            "Tags": "tsunami"
+        },
+        {
+            "id": 1697,
+            "Title": "On the 'snow-plow' phase of supernovae interacting with dense circumstellar media",
+            "Tags": "ice"
+        },
+        {
+            "id": 1744,
+            "Title": "Water Droplet Avalanches",
+            "Tags": "earthquake"
+        },
+        {
+            "id": 1721,
+            "Title": "Physical processes causing the formation of penitentes",
+            "Tags": "ice"
+        },
+        {
+            "id": 1718,
+            "Title": "Investigation of carbon dioxide phase shift possibility under extreme Antarctic winter conditions",
+            "Tags": "ice"
+        },
+        {
+            "id": 1753,
+            "Title": "A 6 dimensional $(Z_{2})^3$ symmetric model with warped physical space",
+            "Tags": "earthquake"
+        },
+        {
+            "id": 1762,
+            "Title": "Solar Event Simulations using the HAWC Scaler System",
+            "Tags": "earthquake"
+        },
+        {
+            "id": 1765,
+            "Title": "Muon tomography applied to active volcanoes",
+            "Tags": "earthquake"
+        },
+        {
+            "id": 1794,
+            "Title": "A Radiative Heating Model for Chondrule and Chondrite Formation",
+            "Tags": "dust"
+        },
+        {
+            "id": 1795,
+            "Title": "The MgCO$_3$-CaCO$_3$-Li$_2$CO$_3$-Na$_2$CO$_3$-K$_2$CO$_3$ Carbonate Melts: Thermodynamics and Transport Properties by Atomistic Simulations",
+            "Tags": "ice"
+        },
+        {
+            "id": 1823,
+            "Title": "A Review on Serious Games for Disaster Relief",
+            "Tags": "dust"
+        },
+        {
+            "id": 1808,
+            "Title": "A Holistic Framework for Parameter Coordination of Interconnected Microgrids against Disasters",
+            "Tags": "ice"
+        },
+        {
+            "id": 1853,
+            "Title": "Resilience of Interdependent Urban Socio-Physical Systems using Large-Scale Mobility Data: Modeling Recovery Dynamics",
+            "Tags": "dust"
+        },
+        {
+            "id": 1937,
+            "Title": "Some Comments on Multiple Discovery in Mathematics",
+            "Tags": "volcano"
+        },
+        {
+            "id": 2055,
+            "Title": "Towards Efficient Single Image Dehazing and Desnowing",
+            "Tags": "ice"
+        },
+        {
+            "id": 1916,
+            "Title": "Generative modeling of spatio-temporal weather patterns with extreme event conditioning",
+            "Tags": "volcano"
+        },
+        {
+            "id": 2006,
+            "Title": "Critical phenomena in complex networks",
+            "Tags": "ice"
+        },
+        {
+            "id": 2034,
+            "Title": "On negative streamers: a deterministic approach",
+            "Tags": "storm"
+        },
+        {
+            "id": 2217,
+            "Title": "Tsunami: A Learned Multi-dimensional id for Correlated Data and Skewed Workloads",
+            "Tags": "snow"
+        },
+        {
+            "id": 2363,
+            "Title": "Suites r\u00e9currentes lin\u00e9aires d'ordre 2 \u00e0 divisibilit\u00e9 forte",
+            "Tags": "tsunami"
+        },
+        {
+            "id": 2381,
+            "Title": "The Effect of Land Fraction and Host Star Spectral Energy Distribution on the Planetary Albedo of Terrestrial Worlds",
+            "Tags": "tsunami"
+        },
+        {
+            "id": 2383,
+            "Title": "A Vision-Based Control Method for Autonomous Landing of Vertical Flight Aircraft On a Moving Platform Without Using GPS",
+            "Tags": "tsunami"
+        },
+        {
+            "id": 31,
+            "Title": "Comparison of annual maximum series and flood-type-differentiated mixture models of partial duration series",
+            "Tags": "earthquake"
+        },
+        {
+            "id": 2561,
+            "Title": "Herschel Observations of Debris Discs Orbiting Planet-hosting Subgiants",
+            "Tags": "earthquake"
+        },
+        {
+            "id": 2590,
+            "Title": "Tracking the Trackers: Towards Understanding the Mobile Advertising and Tracking Ecosystem",
+            "Tags": "earthquake"
+        },
+        {
+            "id": 2565,
+            "Title": "HD 106906: A Case Study for External Perturbations of a Debris Disk",
+            "Tags": "earthquake"
+        },
+        {
+            "id": 2638,
+            "Title": "Fermions in a warped resolved conifold",
+            "Tags": "dust"
+        },
+        {
+            "id": 2698,
+            "Title": "Distributed and Optimal Resilient Planning of Large-Scale Interdependent Critical Infrastructures",
+            "Tags": "ice"
+        },
+        {
+            "id": 2696,
+            "Title": "Resilient Disaster Recovery Logistics of Distribution Systems: Co-Optimize Service Restoration with Repair Crew and Mobile Power Source Dispatch",
+            "Tags": "ice"
+        },
+        {
+            "id": 1172,
+            "Title": "Impact of Perturbations on Watersheds",
+            "Tags": "snow"
+        },
+        {
+            "id": 1521,
+            "Title": "Trigonometry of The Gold-Bug",
+            "Tags": "flood"
+        },
+        {
+            "id": 2746,
+            "Title": "A multi-modal approach towards mining social media data during natural disasters -- a case study of Hurricane Irma",
+            "Tags": "ice"
+        },
+        {
+            "id": 8,
+            "Title": "Linear Laurent phenomenon algebras",
+            "Tags": "tsunami"
+        },
+        {
+            "id": 2909,
+            "Title": "Instability of scalar charges in 1+1D and 2+1D",
+            "Tags": "flood"
+        },
+        {
+            "id": 1806,
+            "Title": "Joint Coverage and Power Control in Highly Dynamic and Massive UAV Networks: An Aggregative Game-theoretic Learning Approach",
+            "Tags": "dust"
+        },
+        {
+            "id": 2694,
+            "Title": "Architecture of Environmental Risk Modelling: for a faster and more robust response to natural disasters",
+            "Tags": "dust"
+        },
+        {
+            "id": 275,
+            "Title": "A geometric characterization of the symplectic Lie algebra",
+            "Tags": "flood"
+        },
+        {
+            "id": 2258,
+            "Title": "Cliffs User Manual",
+            "Tags": "flood"
+        },
+        {
+            "id": 1855,
+            "Title": "FSM: FBS Set Management, An energy efficient multi-drone 3D trajectory approach in cellular networks",
+            "Tags": "ice"
+        },
+        {
+            "id": 1209,
+            "Title": "Tidal Disruption of a Star By a Black Hole : Observational Signature",
+            "Tags": "snow"
+        },
+        {
+            "id": 761,
+            "Title": "Flood Routing Technique for Data Networks",
+            "Tags": "earthquake"
+        },
+        {
+            "id": 522,
+            "Title": "First Joint Observations of Space Weather Events over Mexico",
+            "Tags": "flood"
+        },
+        {
+            "id": 2697,
+            "Title": "Autonomous Navigation and Configuration of Integrated Access Backhauling for UAV Base Station Using Reinforcement Learning",
+            "Tags": "ice"
+        },
+        {
+            "id": 84,
+            "Title": "Towards Landslide Predictions: Two Case Studies",
+            "Tags": "avalanche"
+        }
+    ],
+    "links": [
+    ]
+}

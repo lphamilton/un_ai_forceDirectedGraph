@@ -1,0 +1,725 @@
+{
+    "nodes": [
+        {
+            "id": 11,
+            "Title": "Cyclic sieving phenomenon in non-crossing connected graphs"
+        },
+        {
+            "id": 28,
+            "Title": "The Weather Impacts the Outbreak of COVID-19 in Mainland China"
+        },
+        {
+            "id": 30,
+            "Title": "How Bad is the Freedom to Flood-It?"
+        },
+        {
+            "id": 41,
+            "Title": "A Model for TSUnami FLow INversion from Deposits (TSUFLIND)"
+        },
+        {
+            "id": 47,
+            "Title": "Acoustic Eaton lens array and its fluid application"
+        },
+        {
+            "id": 60,
+            "Title": "Atmospheric Evolution"
+        },
+        {
+            "id": 75,
+            "Title": "Space-Time Landslide Predictive Modelling"
+        },
+        {
+            "id": 78,
+            "Title": "XAI Model for Accurate and Interpretable Landslide Susceptibility"
+        },
+        {
+            "id": 83,
+            "Title": "Detecting and monitoring long-term landslides in urbanized areas with nighttime light data and multi-seasonal Landsat imagery across Taiwan from 1998 to 2017"
+        },
+        {
+            "id": 109,
+            "Title": "Investigating the Sense of Presence Between Handcrafted and Panorama Based Virtual Environments"
+        },
+        {
+            "id": 119,
+            "Title": "We'll Fix It in Post: What Do Bug Fixes in Video Game Update Notes Tell Us?"
+        },
+        {
+            "id": 135,
+            "Title": "Hierarchical Integrated Spatial Process Modeling of Monotone West Antarctic Snow Density Curves"
+        },
+        {
+            "id": 146,
+            "Title": "Single-electron soliton avalanches in tunnel junction arrays"
+        },
+        {
+            "id": 165,
+            "Title": "Demand Estimation and Chance-Constrained Fleet Management for Ride Hailing"
+        },
+        {
+            "id": 173,
+            "Title": "Dearth of short-period Neptunian exoplanets - a desert in period-mass and period-radius planes"
+        },
+        {
+            "id": 185,
+            "Title": "The Galactic Dust-Up: Modeling Dust Evolution in FIRE"
+        },
+        {
+            "id": 189,
+            "Title": "A New Space Weather Tool for Identifying Eruptive Active Regions"
+        },
+        {
+            "id": 192,
+            "Title": "The Behavior of Novae Light Curves Before Eruption"
+        },
+        {
+            "id": 201,
+            "Title": "Analysis of Annual Cyclone Frequencies over Bay of Bengal: Effect of 2004 Indian Ocean Tsunami"
+        },
+        {
+            "id": 207,
+            "Title": "Dynamics of a solar prominence tornado observed by SDO\/AIA on 2012 November 7-8"
+        },
+        {
+            "id": 227,
+            "Title": "A Computational Framework for Modelling and Analyzing Ice Storms"
+        },
+        {
+            "id": 247,
+            "Title": "Alfv\u00e9n Wave Heating of the Solar Chromosphere: 1.5D models"
+        },
+        {
+            "id": 249,
+            "Title": "Heating of ions by low-frequency Alfv\u00e9n waves in partially ionized plasmas"
+        },
+        {
+            "id": 253,
+            "Title": "Identifying Observables that can Differentiate Between Impulsive and Footpoint Heating: Time Lags and Intensity Ratios"
+        },
+        {
+            "id": 258,
+            "Title": "Estimating country-specific space heating threshold temperatures from national consumption data"
+        },
+        {
+            "id": 264,
+            "Title": "The Super Earth-Cold Jupiter Relations"
+        },
+        {
+            "id": 267,
+            "Title": "On the number of extremal surfaces"
+        },
+        {
+            "id": 281,
+            "Title": "Using efficient parallelization in Graphic Processing Units to parameterize stochastic fire propagation models"
+        },
+        {
+            "id": 294,
+            "Title": "From periodically driven double wells to volcano potentials: Quantum dynamics"
+        },
+        {
+            "id": 335,
+            "Title": "Opera Highlights"
+        },
+        {
+            "id": 339,
+            "Title": "Localization of Vector Field on Pure Geometrical Thick Brane"
+        },
+        {
+            "id": 383,
+            "Title": "Strangeness content of the nucleon in quasielastic neutrino-nucleus reactions"
+        },
+        {
+            "id": 384,
+            "Title": "Sequestration of ethane in the cryovolcanic subsurface of Titan"
+        },
+        {
+            "id": 396,
+            "Title": "Exploring Super-Earth Surfaces: Albedo of Near-Airless Magma Ocean Planets and Topography"
+        },
+        {
+            "id": 406,
+            "Title": "Viscous heating effects in fluids with temperature-dependent viscosity: triggering of secondary flows"
+        },
+        {
+            "id": 408,
+            "Title": "Source geometry from exceptionally high resolution long period event observations at Mt Etna during the 2008 eruption"
+        },
+        {
+            "id": 417,
+            "Title": "Large Variance and Fat Tail of Damage by Natural Disaster"
+        },
+        {
+            "id": 426,
+            "Title": "Social media usage patterns during natural hazards"
+        },
+        {
+            "id": 442,
+            "Title": "Theoretical Analysis for Determining Geographical Route of Cable Network with Various Disaster-Endurance Levels"
+        },
+        {
+            "id": 447,
+            "Title": "Social media usage reveals how regions recover after natural disaster"
+        },
+        {
+            "id": 463,
+            "Title": "When does a disaster become a systemic event? Estimating indirect economic losses from natural disasters"
+        },
+        {
+            "id": 494,
+            "Title": "TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions"
+        },
+        {
+            "id": 500,
+            "Title": "A MIMO approach for Weather Radars"
+        },
+        {
+            "id": 528,
+            "Title": "Photographic Visualization of Weather Forecasts with Generative Adversarial Networks"
+        },
+        {
+            "id": 580,
+            "Title": "Resonant Tunneling in Scalar Quantum Field Theory"
+        },
+        {
+            "id": 585,
+            "Title": "Metamaterial inspired perfect tunneling in semiconductor heterostructures"
+        },
+        {
+            "id": 587,
+            "Title": "Resurrecting Dead-water Phenomenon"
+        },
+        {
+            "id": 590,
+            "Title": "EIT-like phenomenon with two atomic ensembles in a cavity"
+        },
+        {
+            "id": 595,
+            "Title": "A Compositional Explanation of the Pet Fish Phenomenon"
+        },
+        {
+            "id": 598,
+            "Title": "The strange attraction phenomenon in cQED: the intermediate quantum coupling regime"
+        },
+        {
+            "id": 614,
+            "Title": "Ultra-compact binaries: relevance and role of Utrecht"
+        },
+        {
+            "id": 622,
+            "Title": "Lecture Notes: Numerical Relativity in higher dimensional spacetimes"
+        },
+        {
+            "id": 640,
+            "Title": "New Phenomena in NC Field Theory and Emergent Spacetime Geometry"
+        },
+        {
+            "id": 709,
+            "Title": "Potential of 4d-VAR for exigent forecasting of severe weather"
+        },
+        {
+            "id": 736,
+            "Title": "A Comparative Analysis of Machine Learning Models for Solar Flare Forecasting: Identifying High Performing Active Region Flare Indicators"
+        },
+        {
+            "id": 741,
+            "Title": "Rank-One Prior: Toward Real-Time Scene Recovery"
+        },
+        {
+            "id": 749,
+            "Title": "Extremal Analysis of Flooding Risk and Management"
+        },
+        {
+            "id": 751,
+            "Title": "Spanning trees and the complexity of flood-filling games"
+        },
+        {
+            "id": 783,
+            "Title": "Temporal flooding of regular islands by chaotic wave packets"
+        },
+        {
+            "id": 813,
+            "Title": "Looking for the rainbow on exoplanets covered by liquid and icy water clouds"
+        },
+        {
+            "id": 834,
+            "Title": "X-ray induced chemistry of water and related molecules in low-mass protostellar envelopes"
+        },
+        {
+            "id": 842,
+            "Title": "FTS Measurements of Submillimeter-Wave Atmospheric Opacity at Pampa la Bola III. Water Vapor, Liquid Water, and 183 GHz Water Vapor Line Opacities"
+        },
+        {
+            "id": 856,
+            "Title": "On the modelling of tsunami generation and tsunami inundation"
+        },
+        {
+            "id": 864,
+            "Title": "Boussinesq systems in two space dimensions over a variable bottom for the generation and propagation of tsunami waves"
+        },
+        {
+            "id": 872,
+            "Title": "Comprehensive Probabilistic Tsunami Hazard Assessment in the Makran Subduction Zone"
+        },
+        {
+            "id": 941,
+            "Title": "Architectural Techniques for Improving NAND Flash Memory Reliability"
+        },
+        {
+            "id": 944,
+            "Title": "Improving 3D NAND Flash Memory Lifetime by Tolerating Early Retention Loss and Process Variation"
+        },
+        {
+            "id": 959,
+            "Title": "A Plateau in the Planet Population Below Twice the Size of Earth"
+        },
+        {
+            "id": 970,
+            "Title": "Spectrometry of the Earth using Neutrino Oscillations"
+        },
+        {
+            "id": 981,
+            "Title": "Where can we find Super-Earths?"
+        },
+        {
+            "id": 994,
+            "Title": "Melting and Mixing States of the Earth's Mantle after the Moon-Forming Impact"
+        },
+        {
+            "id": 997,
+            "Title": "Geoneutrinos and Hydridic Earth (or primordially Hydrogen-Rich Planet)"
+        },
+        {
+            "id": 1000,
+            "Title": "Topography effect on the seismogenic deformation of the earth's surface"
+        },
+        {
+            "id": 1030,
+            "Title": "Sullivan completions"
+        },
+        {
+            "id": 1033,
+            "Title": "A spatial multinomial logit model for analysing urban expansion"
+        },
+        {
+            "id": 1045,
+            "Title": "EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification"
+        },
+        {
+            "id": 1072,
+            "Title": "A Landing Theorem for Periodic Rays of Exponential Maps"
+        },
+        {
+            "id": 1135,
+            "Title": "Deep Fusion of Local and Non-Local Features for Precision Landslide Recognition"
+        },
+        {
+            "id": 1142,
+            "Title": "Comparing modern and Pleistocene ENSO-like influences in NW Argentina using nonlinear time series analysis methods"
+        },
+        {
+            "id": 1171,
+            "Title": "Tactical Voting in Plurality Elections"
+        },
+        {
+            "id": 1189,
+            "Title": "Mining Secure Behavior of Hardware Designs"
+        },
+        {
+            "id": 1192,
+            "Title": "Debris disks and the search for life in the universe"
+        },
+        {
+            "id": 1198,
+            "Title": "Debris Disks: Structure, Composition, and Variability"
+        },
+        {
+            "id": 1199,
+            "Title": "A survey of debris trails from short-period comets"
+        },
+        {
+            "id": 1221,
+            "Title": "Tidal Tales of Minor Mergers: Star Formation in the Tidal Debris of Minor Mergers"
+        },
+        {
+            "id": 1222,
+            "Title": "Effects of a planetesimal debris disk on stability scenarios for the extrasolar planetary system HR 8799"
+        },
+        {
+            "id": 1225,
+            "Title": "Hybrid Paricle-in-Cell Simulations of Electromagnetic Coupling and Waves From Streaming Burst Debris"
+        },
+        {
+            "id": 1250,
+            "Title": "Spatially resolved submm imaging of the HR 8799 debris disk"
+        },
+        {
+            "id": 1266,
+            "Title": "Long-term Attitude Dynamics of Space Debris in Sun-synchronous Orbits: Cassini Cycles and Chaotic Stabilization"
+        },
+        {
+            "id": 1288,
+            "Title": "A useful correspondence between fluid convection and ecosystem operation"
+        },
+        {
+            "id": 1342,
+            "Title": "Reconstructing a (recurrent) random environment from a single trajectory of Random Walk in Random Environment with errors"
+        },
+        {
+            "id": 1353,
+            "Title": "The Future of Intelligent Wavefront Shaping for Smart Radio Environments"
+        },
+        {
+            "id": 1358,
+            "Title": "The law of the iterated logarithm for a class of transient random walk in random environment"
+        },
+        {
+            "id": 1362,
+            "Title": "Open environments for quantum open systems"
+        },
+        {
+            "id": 1365,
+            "Title": "A Stationary, Mixing and Perturbative Counterexample to the 0-1-law for Random Walk in Random Environment in Two Dimensions"
+        },
+        {
+            "id": 1368,
+            "Title": "Computing the Drift of Random Walks in Dependent Random Environments"
+        },
+        {
+            "id": 1388,
+            "Title": "Does black-hole growth depend on the cosmic environment?"
+        },
+        {
+            "id": 1397,
+            "Title": "Role of initial system-environment correlations: A master equation approach"
+        },
+        {
+            "id": 1404,
+            "Title": "Human Learning of Unknown Environments in Agile Guidance Tasks"
+        },
+        {
+            "id": 1433,
+            "Title": "On a Hyperbolic-Parabolic Parasitoid-Parasite System: Well Posedness and Control"
+        },
+        {
+            "id": 1435,
+            "Title": "Estimation of the mortality rate functions from time series field data in a stage-structured demographic model for Lobesia botrana"
+        },
+        {
+            "id": 1436,
+            "Title": "A smartphone application to detection and classification of coffee leaf miner and coffee leaf rust"
+        },
+        {
+            "id": 1543,
+            "Title": "Analysis of the human diseasome reveals phenotype modules across common, genetic, and infectious diseases"
+        },
+        {
+            "id": 1545,
+            "Title": "Pan-disease clustering analysis of the trend of period prevalence"
+        },
+        {
+            "id": 1549,
+            "Title": "Clinical connectivity map for drug repurposing: using laboratory tests to bridge drugs and diseases"
+        },
+        {
+            "id": 1590,
+            "Title": "Integrating Dictionary Feature into A Deep Learning Model for Disease Named Entity Recognition"
+        },
+        {
+            "id": 1624,
+            "Title": "Epidemic spreading on modular networks: The fear to declare a pandemic"
+        },
+        {
+            "id": 1629,
+            "Title": "Temporal evolution of the Covid19 pandemic reproduction number: Estimations from proximal optimization to Monte Carlo sampling"
+        },
+        {
+            "id": 1676,
+            "Title": "Statistical models for short and long term forecasts of snow depth"
+        },
+        {
+            "id": 1697,
+            "Title": "On the 'snow-plow' phase of supernovae interacting with dense circumstellar media"
+        },
+        {
+            "id": 1701,
+            "Title": "Handling Mobility in Low-Power Wide-Area Network"
+        },
+        {
+            "id": 1718,
+            "Title": "Investigation of carbon dioxide phase shift possibility under extreme Antarctic winter conditions"
+        },
+        {
+            "id": 1721,
+            "Title": "Physical processes causing the formation of penitentes"
+        },
+        {
+            "id": 1723,
+            "Title": "Grain Retention and Formation of Planetesimals near the Snow Line in MRI-driven Turbulent Protoplanetary Disks"
+        },
+        {
+            "id": 1732,
+            "Title": "Avalanche dynamics on a rough inclined plane"
+        },
+        {
+            "id": 1744,
+            "Title": "Water Droplet Avalanches"
+        },
+        {
+            "id": 1753,
+            "Title": "A 6 dimensional $(Z_{2})^3$ symmetric model with warped physical space"
+        },
+        {
+            "id": 1762,
+            "Title": "Solar Event Simulations using the HAWC Scaler System"
+        },
+        {
+            "id": 1763,
+            "Title": "HAWC Upgrade with a Sparse Outrigger Array"
+        },
+        {
+            "id": 1765,
+            "Title": "Muon tomography applied to active volcanoes"
+        },
+        {
+            "id": 1774,
+            "Title": "New classification method of volcanic ash samples using statistically determined grain types"
+        },
+        {
+            "id": 1780,
+            "Title": "LoCUS: A multi-robot loss-tolerant algorithm for surveying volcanic plumes"
+        },
+        {
+            "id": 1794,
+            "Title": "A Radiative Heating Model for Chondrule and Chondrite Formation"
+        },
+        {
+            "id": 1795,
+            "Title": "The MgCO$_3$-CaCO$_3$-Li$_2$CO$_3$-Na$_2$CO$_3$-K$_2$CO$_3$ Carbonate Melts: Thermodynamics and Transport Properties by Atomistic Simulations"
+        },
+        {
+            "id": 1808,
+            "Title": "A Holistic Framework for Parameter Coordination of Interconnected Microgrids against Disasters"
+        },
+        {
+            "id": 1823,
+            "Title": "A Review on Serious Games for Disaster Relief"
+        },
+        {
+            "id": 1853,
+            "Title": "Resilience of Interdependent Urban Socio-Physical Systems using Large-Scale Mobility Data: Modeling Recovery Dynamics"
+        },
+        {
+            "id": 1916,
+            "Title": "Generative modeling of spatio-temporal weather patterns with extreme event conditioning"
+        },
+        {
+            "id": 1937,
+            "Title": "Some Comments on Multiple Discovery in Mathematics"
+        },
+        {
+            "id": 1968,
+            "Title": "Partially Observable Markov Decision Process for Recommender Systems"
+        },
+        {
+            "id": 1979,
+            "Title": "Sparsity-driven synchronization in oscillators networks"
+        },
+        {
+            "id": 2006,
+            "Title": "Critical phenomena in complex networks"
+        },
+        {
+            "id": 2034,
+            "Title": "On negative streamers: a deterministic approach"
+        },
+        {
+            "id": 2055,
+            "Title": "Towards Efficient Single Image Dehazing and Desnowing"
+        },
+        {
+            "id": 2074,
+            "Title": "Feature Construction and Selection for PV Solar Power Modeling"
+        },
+        {
+            "id": 2084,
+            "Title": "Study of Interplanetary and Geomagnetic Response of Filament Associated CMEs"
+        },
+        {
+            "id": 2137,
+            "Title": "Spatial Global Sensitivity Analysis of High Resolution classified topographic data use in 2D urban flood modelling"
+        },
+        {
+            "id": 2143,
+            "Title": "Understanding Kerala Floods of 2018: Role of Mixed Rossby-Gravity waves"
+        },
+        {
+            "id": 2156,
+            "Title": "Active Link Obfuscation to Thwart Link-flooding Attacks for Internet of Things"
+        },
+        {
+            "id": 2172,
+            "Title": "Effect of lattice shrinking on the migration of water within zeolite LTA"
+        },
+        {
+            "id": 2176,
+            "Title": "On the Nature of Freezing\/Melting Water in Ionic Polysulfones"
+        },
+        {
+            "id": 2192,
+            "Title": "Water alignment, dipolar interactions, and multiple proton occupancy during water-wire proton transport"
+        },
+        {
+            "id": 2217,
+            "Title": "Tsunami: A Learned Multi-dimensional id for Correlated Data and Skewed Workloads"
+        },
+        {
+            "id": 2224,
+            "Title": "Tsunamis in Galaxy Clusters: Heating of Cool Cores by Acoustic Waves"
+        },
+        {
+            "id": 2352,
+            "Title": "Palomar Optical Spectrum of Hyperbolic Near-Earth Object A\/2017 U1"
+        },
+        {
+            "id": 2363,
+            "Title": "Suites r\u00e9currentes lin\u00e9aires d'ordre 2 \u00e0 divisibilit\u00e9 forte"
+        },
+        {
+            "id": 2381,
+            "Title": "The Effect of Land Fraction and Host Star Spectral Energy Distribution on the Planetary Albedo of Terrestrial Worlds"
+        },
+        {
+            "id": 2383,
+            "Title": "A Vision-Based Control Method for Autonomous Landing of Vertical Flight Aircraft On a Moving Platform Without Using GPS"
+        },
+        {
+            "id": 2421,
+            "Title": "On evaluation of ShARP passive rainfall retrievals over snow-covered land surfaces and coastal zones"
+        },
+        {
+            "id": 2425,
+            "Title": "Renormalization of earthquake aftershocks"
+        },
+        {
+            "id": 2476,
+            "Title": "Feedback Neural Network based Super-resolution of DEM for generating high fidelity features"
+        },
+        {
+            "id": 2479,
+            "Title": "An ObsPy library for event detection and seismic attribute calculation: preparing waveforms for automated analysis"
+        },
+        {
+            "id": 2494,
+            "Title": "Real time observation of granular rock analogue material deformation and failure using nonlinear laser interferometry"
+        },
+        {
+            "id": 2505,
+            "Title": "An integrated debris environment assessment model"
+        },
+        {
+            "id": 2525,
+            "Title": "Tidal disruptions of rotating stars by a supermassive black hole"
+        },
+        {
+            "id": 2541,
+            "Title": "High-Resolution Simulations of a Moon-Forming Impact and Post-Impact Evolution"
+        },
+        {
+            "id": 2561,
+            "Title": "Herschel Observations of Debris Discs Orbiting Planet-hosting Subgiants"
+        },
+        {
+            "id": 2565,
+            "Title": "HD 106906: A Case Study for External Perturbations of a Debris Disk"
+        },
+        {
+            "id": 2590,
+            "Title": "Tracking the Trackers: Towards Understanding the Mobile Advertising and Tracking Ecosystem"
+        },
+        {
+            "id": 2621,
+            "Title": "Lessons Learned from Evaluating MDE Abstractions in an Industry Case Study"
+        },
+        {
+            "id": 2638,
+            "Title": "Fermions in a warped resolved conifold"
+        },
+        {
+            "id": 2655,
+            "Title": "Asynchronous Complex Analytics in a Distributed Dataflow Architecture"
+        },
+        {
+            "id": 2665,
+            "Title": "Calibration and monitoring of the ASTRI-Horn telescope by using the night-sky background measured by the photon-statistics (\"variance\") method"
+        },
+        {
+            "id": 2674,
+            "Title": "Localization of 4D gravity on pure geometrical Thick branes"
+        },
+        {
+            "id": 2696,
+            "Title": "Resilient Disaster Recovery Logistics of Distribution Systems: Co-Optimize Service Restoration with Repair Crew and Mobile Power Source Dispatch"
+        },
+        {
+            "id": 2698,
+            "Title": "Distributed and Optimal Resilient Planning of Large-Scale Interdependent Critical Infrastructures"
+        },
+        {
+            "id": 2711,
+            "Title": "Effect of different patient peak arrivals on an Emergency Department via discrete event simulation"
+        },
+        {
+            "id": 2714,
+            "Title": "MTLTS: A Multi-Task Framework To Obtain Trustworthy Summaries From Crisis-Related Microblogs"
+        },
+        {
+            "id": 2723,
+            "Title": "Picking Apart Story Salads"
+        },
+        {
+            "id": 2736,
+            "Title": "Resilience-based performance modeling and decision optimization for transportation network"
+        },
+        {
+            "id": 2746,
+            "Title": "A multi-modal approach towards mining social media data during natural disasters -- a case study of Hurricane Irma"
+        },
+        {
+            "id": 2766,
+            "Title": "Graph Based Semi-supervised Learning with Convolution Neural Networks to Classify Crisis Related Tweets"
+        },
+        {
+            "id": 2799,
+            "Title": "OSPREI: A Coupled Approach to Modeling CME-Driven Space Weather with Automatically-Generated, User-Friendly Outputs"
+        },
+        {
+            "id": 2853,
+            "Title": "Gamow vectors formalism applied to the Loschmidt echo"
+        },
+        {
+            "id": 2909,
+            "Title": "Instability of scalar charges in 1+1D and 2+1D"
+        },
+        {
+            "id": 2933,
+            "Title": "Potential approximations to $\u03b4'$: an inverse Klauder phenomenon with norm-resolvent convergence"
+        },
+        {
+            "id": 2995,
+            "Title": "Partially Reflected Brownian Motion: A Stochastic Approach to Transport Phenomena"
+        },
+        {
+            "id": 3063,
+            "Title": "Numerical Modelling of Neutral Boundary-Layer Flow across a Forested Ridge"
+        },
+        {
+            "id": 3092,
+            "Title": "Composition and origin of L5 Trojan asteroids of Mars: Insights from spectroscopy"
+        },
+        {
+            "id": 3100,
+            "Title": "An Architecture for the detection of GAN-generated Flood Images with Localization Capabilities"
+        }
+    ],
+    "links": []
+}

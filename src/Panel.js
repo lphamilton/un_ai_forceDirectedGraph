@@ -18,23 +18,16 @@ const Panel = ({ node, onClickClose, onClickJumpToNode }) => {
               <Button onClick={onClickClose}>X</Button>
             </div>
           </div>
-          <div className="p-4 border-t border-gray-300">
-            <p className="text-3xl text-gray-900">{node.user}</p>
-          </div>
+          
           <div className="p-4 border-t border-gray-300">
             <pre className="text-gray-700">
-              {JSON.stringify({
-                id: node.id,
-                user: node.user,
-                val: node.val
-              })}
+             Article Title: {node.title}
             </pre>
           </div>
           <div className="flex p-4 border-t border-gray-300 text-gray-700">
             <Button onClick={(event) => onClickJumpToNode(node, event)}>
               Jump to node
             </Button>
-            <Button onClick={() => alert("Better here :)")}>Expand Node</Button>
           </div>
         </div>
       </div>
