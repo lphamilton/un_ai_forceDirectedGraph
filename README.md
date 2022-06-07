@@ -1,5 +1,5 @@
 # un_ai_forceDirectedGraph
 
-npm i
-npm run build
-npm run start
+1. `npm i`
+2. `npm run build`
+3. `npm run start`
